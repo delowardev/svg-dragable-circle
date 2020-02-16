@@ -1,5 +1,3 @@
-Animated Space using IcoFont icons.
-
 #### `Live Demo` [`https://delowardev.github.io/svg-dragable-circle/`](https://delowardev.github.io/svg-dragable-circle/) 
 
 #### Screenshot
